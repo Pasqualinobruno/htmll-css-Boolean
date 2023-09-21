@@ -1,0 +1,33 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.pattern{
+    background-image:url(./img/pattern.png);
+    background-color: aqua;
+    height: 150px;
+    width: 100%;
+}
+#boolean{
+    display: block;
+    height: 150px;
+    width: revert;
+}
+h1{
+    font-size: 50px;
+    font-family:serif
+}
+.blu{
+    color: blue;
+}
+p{
+    font-size: 20px;
+}
+#dimension{
+    width: 100%;
+}
+.groundyellow{
+    background-color: yellow;
+}
+main{
+    font-size: 400;
+}
